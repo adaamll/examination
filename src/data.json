@@ -1,0 +1,20 @@
+[
+  {
+    "noteTitle": "Note 1",
+    "noteContent": "Lorem Ipsum Dolor Site Amet",
+    "noteId": 1,
+    "noteDate": "3 days ago"
+  },
+  {
+    "noteTitle": "Note 2",
+    "noteContent": "Lorem Ipsum Dolor Site Amet",
+    "noteId": 2,
+    "noteDate": "2 days ago"
+  },
+  {
+    "noteTitle": "Note 3",
+    "noteContent": "Lorem Ipsum Dolor Site Amet",
+    "noteId": 3,
+    "noteDate": "2 days ago"
+  }
+]
